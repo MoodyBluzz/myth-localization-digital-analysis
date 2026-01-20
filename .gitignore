@@ -20,3 +20,7 @@ Thumbs.db
 data/raw/*
 !data/raw/.gitkeep
 data/interim/
+
+# Processed data
+data/processed/*
+!.gitkeep
